@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,V as a}from"./chunks/framework.B73YJrWg.js";const m=JSON.parse('{"title":"价格介绍","description":"","frontmatter":{},"headers":[],"relativePath":"guide/price.md","filePath":"guide/price.md"}'),r={name:"guide/price.md"},o=a("",9),i=[o];function n(h,s,p,c,l,_){return d(),e("div",null,i)}const u=t(r,[["render",n]]);export{m as __pageData,u as default};
