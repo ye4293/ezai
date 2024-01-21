@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,V as t}from"./chunks/framework.B73YJrWg.js";const c=JSON.parse('{"title":"代码请求","description":"","frontmatter":{},"headers":[],"relativePath":"guide/request.md","filePath":"guide/request.md"}'),n={name:"guide/request.md"},p=t("",5),e=[p];function l(h,o,k,r,E,u){return i(),a("div",null,e)}const g=s(n,[["render",l]]);export{c as __pageData,g as default};
